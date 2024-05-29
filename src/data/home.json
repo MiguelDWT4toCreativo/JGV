@@ -1,0 +1,562 @@
+{
+    "herov1": {
+        "title": "JGV ABOGADOS",
+        "desc": "Expertos en Soluciones Legales desde 2008. En JGV Abogados, la honestidad, responsabilidad y profesionalismo guían cada caso, garantizando el mejor resultado legal.",
+        "button": {
+            "btn1": "Conozca Más",
+            "btnurl1": "/#"
+        },
+        "img": "/assets/img/hero-1.png",
+        "typedText": ["Soluciones Legales Integrales.", "Asesoría Experta y Personalizada.", "Defensa de tus Derechos con Integridad."]
+    },
+    "heroFull": {
+        "title": "JGV Abogados - Compromiso y Excelencia en Derecho",
+        "desc": "Con una visión de liderazgo jurídico, ofrecemos soluciones legales integrales, apoyados en experiencia, ética y compromiso social. Tu éxito legal, nuestra prioridad.",
+        "button": {
+            "btn1": "Explora Nuestros Servicios",
+            "btnurl1": "/#"
+        },
+        "img": "/assets/img/special-feature-bg.jpg"
+    },
+    "herovHalf": {
+        "title": "Soluciones Legales a Medida en JGV Abogados",
+        "desc": "Entendemos cada caso con un enfoque único y personalizado. Descubre cómo podemos ayudarte a superar tus desafíos legales con estrategias efectivas y personalizadas.",
+        "button": {
+            "btn1": "Solicita una Consulta",
+            "btnurl1": "#consulta"
+        },
+        "img": "/assets/img/special-feature-bg.jpg"
+    },
+    "heroVideo": {
+        "title": "JGV Abogados - Donde Cada Caso es Único",
+        "desc": "Conoce nuestro enfoque detallado y personalizado en la resolución de casos. Descubre por qué somos la elección preferida para asesoramiento legal.",
+        "button": {
+            "btn1": "Mira Nuestro Video",
+            "btnurl1": "/assets/video/video.mp4"
+        },
+        "frame": "/assets/img/mobile-frame.svg",
+        "productImg": "/assets/img/video-fallback.jpg",
+        "videoUrl": "/assets/video/video.mp4",
+        "typedText": ["Estrategia Legal a tu Medida.", "Experiencia y Profesionalismo.", "Resultados Concretos y Efectivos."]
+    },
+    "aboutIntro": {
+        "img": "/assets/img/showcase.jpg",
+        "title": "Acerca de JGV Abogados",
+        "desc": "Somos un Despacho Jurídico de servicios integrales desde 2008, generando la mejor estrategia legal con dominio pleno de la ley. Conócenos y descubre cómo podemos ayudarte.",
+        "button": {
+            "btn1": "Leer Más",
+            "btnurl1": "#acerca"
+        }
+    },
+
+    "about": {
+        "sectionHeading": {
+            "title": "Acerca de <span>JGV</span>",
+            "desc": "En JGV Abogados, combinamos experiencia, ética y un compromiso inquebrantable hacia nuestros clientes, ofreciendo soluciones legales integrales desde 2008."
+        },
+        "aboutFeatures": [
+            {
+                "title": "Amplia Experiencia",
+                "icon": "pe-7s-medal",
+                "desc": "Desde 2008, brindando asesoramiento legal experto con una sólida trayectoria en diversas ramas del derecho."
+            },
+            {
+                "title": "Compromiso Ético",
+                "icon": "pe-7s-star",
+                "desc": "Nuestro despacho se destaca por su integridad y ética profesional, asegurando transparencia y confiabilidad en cada caso."
+            },
+            {
+                "title": "Enfoque Personalizado",
+                "icon": "pe-7s-user",
+                "desc": "Cada cliente recibe una atención personalizada, con soluciones a medida que reflejan un entendimiento profundo de sus necesidades."
+            },
+            {
+                "title": "Actualización Constante",
+                "icon": "pe-7s-refresh",
+                "desc": "Nos mantenemos al día con las últimas tendencias y cambios en la legislación para ofrecer el mejor servicio posible."
+            },
+            {
+                "title": "Orientación al Cliente",
+                "icon": "pe-7s-smile",
+                "desc": "Nuestra prioridad es la satisfacción y el éxito de nuestros clientes, guiándolos en cada paso del proceso legal."
+            },
+            {
+                "title": "Reconocimiento y Prestigio",
+                "icon": "pe-7s-trophy",
+                "desc": "Nuestro despacho es reconocido por su excelencia y profesionalismo, reflejado en los resultados obtenidos y el respeto de nuestros colegas."
+            }
+        ]
+    },
+    "blogs": {
+        "sectionHeading": {
+            "title": "Latest <span>Blogs</span>",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut."
+        },
+        "blogcontent": [
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "authorUrl": "",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                "image": "/assets/img/blog/blog-thumb-1.jpg"
+            },
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                
+                "image": "/assets/img/blog/blog-thumb-2.jpg"
+            },
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                "readLink": "Read more...",
+                "url": "#",
+                "image": "/assets/img/blog/blog-thumb-3.jpg"
+            },
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                "readLink": "Read more...",
+                "url": "#",
+                "image": "/assets/img/blog/blog-thumb-4.jpg"
+            },
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                "readLink": "Read more...",
+                "url": "#",
+                "image": "/assets/img/blog/blog-thumb-5.jpg"
+            },
+            {
+                "postDate": "08-02-2017",
+                "cats": [
+                    {
+                    "catname": "Creative",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Design",
+                    "catlink": "#"
+                    },
+                    {
+                    "catname": "Apps",
+                    "catlink": "#"
+                    }
+                ],
+                "author": "Sandy Blogger",
+                "comments": "10 Comments",
+                "commentUrl": "#",
+                "title": "Modern Apps With Amazing Features",
+                "desc": "Lorem Ipsum is simply dummy tex of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the",
+                "readLink": "Read more...",
+                "url": "#",
+                "image": "/assets/img/blog/blog-thumb-6.jpg"
+            }
+        ],
+        "viewAllUrl": "#"
+    },
+    "contact": {
+        "sectionHeading": {
+            "title": "Need to talk anything about?",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."
+        },
+        "submitBtnLabel": "Send Now",
+        "bgImg": "/assets/img/contact-bg.jpg"
+    },
+    "downloadApps": {
+        "sectionHeading": {
+            "title": "Download <span>SANDY</span> from your flatform",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        },
+        "bgImg": "/assets/img/flat-devices.png",
+        "buttons": [
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-apple",
+                "url": "#"
+            },
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-android",
+                "url": "#"
+            },
+            {
+                "btnlabel": "Get now<span>App store</span>",
+                "icon": "fa fa-windows",
+                "url": "#"
+            }
+        ]
+    },
+    "funfacts": {
+            "bgImg": "/assets/img/counter-bg.jpg",
+            "facts": [
+                {
+                    "title": "Años de Experiencia",
+                    "icon": "pe-7s-clock",
+                    "number": "15",
+                    "unit": "+"
+                },
+                {
+                    "title": "Casos Resueltos",
+                    "icon": "pe-7s-portfolio",
+                    "number": "5000",
+                    "unit": "+"
+                },
+                {
+                    "title": "Clientes Satisfechos",
+                    "icon": "pe-7s-smile",
+                    "number": "3000",
+                    "unit": "+"
+                },
+                {
+                    "title": "Reconocimientos Profesionales",
+                    "icon": "pe-7s-medal",
+                    "number": "20",
+                    "unit": "+"
+                }
+            ]
+        },
+    "features": {
+        "sectionHeading": {
+            "title": "Nuestros <span>Servicios</span>",
+            "desc": "En JGV Abogados, ofrecemos una amplia gama de servicios legales para satisfacer tus necesidades. Con un enfoque detallado y personalizado, garantizamos soluciones efectivas y adaptadas a cada caso."
+        },
+        "singleFeature": {
+            "featurePart1": [
+                {
+                    "title": "Derecho Civil y Mercantil",
+                    "icon": "pe-7s-portfolio",
+                    "desc": "Especialistas en litigios civiles y mercantiles, ofreciendo asesoramiento y representación legal en una amplia variedad de asuntos comerciales y personales."
+                },
+                {
+                    "title": "Derecho Laboral",
+                    "icon": "pe-7s-id",
+                    "desc": "Asesoría y defensa en materia de relaciones laborales, derechos de los trabajadores y legislación empresarial, garantizando la protección de tus intereses."
+                },
+                {
+                    "title": "Derecho de Familia",
+                    "icon": "pe-7s-home",
+                    "desc": "Ofrecemos apoyo en casos de derecho de familia, incluyendo divorcios, custodia de menores y acuerdos prenupciales, con un enfoque sensible y confidencial."
+                }
+            ],
+            "image": "/assets/img/feature-image.png",
+            "featurePart2": [
+                {
+                    "title": "Derecho Penal",
+                    "icon": "pe-7s-gavel",
+                    "desc": "Defensa y asesoramiento en procedimientos penales, protegiendo tus derechos y asegurando un trato justo y equitativo ante la ley."
+                },
+                {
+                    "title": "Derecho Administrativo",
+                    "icon": "pe-7s-note2",
+                    "desc": "Expertos en el manejo de asuntos legales relacionados con entidades gubernamentales, permisos, licencias y regulaciones administrativas."
+                },
+                {
+                    "title": "Consultoría Legal Corporativa",
+                    "icon": "pe-7s-briefcase",
+                    "desc": "Asistencia integral en el ámbito corporativo, incluyendo fusiones, adquisiciones y consultoría estratégica para empresas y negocios."
+                }
+            ]
+        }
+    },
+
+    "howWorks": {
+        "sectionHeading": {
+            "title": "Cómo <span>Trabaja</span> JGV",
+            "desc": "Conoce nuestro enfoque detallado y personalizado para brindar las mejores soluciones legales a nuestros clientes."
+        },
+        "workProcess": [
+            {
+                "title": "Consulta Inicial",
+                "icon": "pe-7s-search"
+            },
+            {
+                "title": "Desarrollo de Estrategia",
+                "icon": "pe-7s-light"
+            },
+            {
+                "title": "Ejecución y Seguimiento",
+                "icon": "pe-7s-next-2"
+            },
+            {
+                "title": "Resolución y Cierre",
+                "icon": "pe-7s-check"
+            }
+        ]
+    },    
+    "pricingTable": {
+        "sectionHeading": {
+            "title": "Pricing <span>Packages</span>",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut."
+        },
+        "singleTable": [
+            {
+                "title": "Starter",
+                "currency": "$",
+                "price": "10",
+                "duration": "/month",
+                "features": [
+                    "Awesome features",
+                    "Free supports",
+                    "6 month supports",
+                    "Unlimated backup",
+                    "24/7 Customer Service",
+                    "All devices useable",
+                    "Well documentation"
+                ],
+                "btnLabel": "Download",
+                "url": "#"
+            },
+            {
+                "title": "Business",
+                "currency": "$",
+                "price": "20",
+                "duration": "/month",
+                "features": [
+                    "Awesome features",
+                    "Free supports",
+                    "6 month supports",
+                    "Unlimated backup",
+                    "24/7 Customer Service",
+                    "All devices useable",
+                    "Well documentation"
+                ],
+                "btnLabel": "Download",
+                "url": "#"
+            },
+            {
+                "title": "Professional",
+                "currency": "$",
+                "price": "30",
+                "duration": "/month",
+                "features": [
+                    "Awesome features",
+                    "Free supports",
+                    "6 month supports",
+                    "Unlimated backup",
+                    "24/7 Customer Service",
+                    "All devices useable",
+                    "Well documentation"
+                ],
+                "btnLabel": "Download",
+                "url": "#"
+            }
+        ]
+    },
+    "accordion": {
+            "sectionHeading": {
+                "title": "Preguntas <span>Frecuentes</span>",
+                "desc": "Encuentra respuestas a las preguntas más comunes sobre nuestros servicios legales y procesos."
+            },
+            "title": "Preguntas Comunes",
+            "accordionContent": [
+                {
+                    "title": "¿Qué servicios legales ofrece JGV Abogados?",
+                    "content": "En JGV Abogados, ofrecemos una amplia gama de servicios legales, incluyendo derecho civil y mercantil, laboral, de familia, penal, administrativo y consultoría legal corporativa."
+                },
+                {
+                    "title": "¿Cómo aborda JGV Abogados un nuevo caso?",
+                    "content": "Cada caso es analizado detalladamente para entender las necesidades específicas del cliente. Ofrecemos soluciones legales personalizadas y nos comprometemos a ofrecer una estrategia efectiva y adaptada a cada situación."
+                },
+                {
+                    "title": "¿Qué hace a JGV Abogados diferente de otros despachos?",
+                    "content": "Nos distinguimos por nuestra atención personalizada, análisis detallado de cada caso, honestidad en la comunicación de alcances y resultados posibles, responsabilidad en el seguimiento de cada asunto, y un constante profesionalismo y adaptabilidad."
+                },
+                {
+                    "title": "¿Cómo puedo iniciar una consulta con JGV Abogados?",
+                    "content": "Puedes iniciar una consulta rellenando nuestro formulario de contacto en la página web o llamándonos directamente. Un especialista en el área legal de tu interés se pondrá en contacto contigo a la brevedad."
+                }
+            ],
+            "image": "/assets/img/faq.jpg"
+    },    
+    "screenshots": {
+        "sectionHeading": {
+            "title": "Nuestro <span>Portafolio</span>",
+            "desc": "Explora una selección de nuestros casos más significativos y descubre cómo hemos ayudado a nuestros clientes a superar desafíos legales complejos."
+        },
+        "screenshot": [
+            {
+                "img": "/assets/img/screenshots/screenshot-1.jpg",
+                "title": "Caso de Derecho Mercantil"
+            },
+            {
+                "img": "/assets/img/screenshots/screenshot-2.jpg",
+                "title": "Resolución de Disputa Laboral"
+            },
+            {
+                "img": "/assets/img/screenshots/screenshot-3.jpg",
+                "title": "Asesoramiento en Derecho de Familia"
+            },
+            {
+                "img": "/assets/img/screenshots/screenshot-1.jpg",
+                "title": "Defensa en Caso Penal"
+            },
+            {
+                "img": "/assets/img/screenshots/screenshot-2.jpg",
+                "title": "Consultoría Legal Corporativa"
+            }
+        ]
+    },    
+    "specialFeatures": {
+            "title": "Jurídico García Vega",
+            "desc": "En JGV Abogados, no solo practicamos la ley, defendemos tus derechos con integridad y pasión. Nuestro compromiso es tu éxito legal.",
+            "btnLabel": "Conoce Más",
+            "btnUrl": "#/contact",
+            "bgImg": "/assets/img/special-feature-bg.jpg"
+    },
+    
+    "subscription": {
+        "title": "Subscribe now!",
+        "shortDesc": "Subscribe to get all latest news from us.",
+        "downloadTitle": "Where to download?",
+        "downloadDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's typesetting industry standard dummy text ever since the typesetting.",
+        "buttons": [
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-apple",
+                "url": "#",
+                "animation": "3s"
+            },
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-android",
+                "url": "#",
+                "animation": "3s"
+            },
+            {
+                "btnlabel": "Get now",
+                "icon": "fa fa-windows",
+                "url": "#",
+                "animation": "3s"
+            }
+        ]
+    },
+    "testimonial": {
+        "sectionHeading": {
+            "title": "Opiniones de <span>Clientes</span>",
+            "desc": "Descubre lo que nuestros clientes tienen que decir sobre su experiencia con JGV Abogados."
+        },
+        "testimonial": [
+            {
+                "name": "Laura Martínez",
+                "compnyName": "InnovaTech",
+                "compnyUrl": "#",
+                "position": "Directora General,",
+                "desc": "El equipo de JGV Abogados mostró un compromiso y profesionalismo excepcional al manejar nuestro caso. Su atención al detalle y su enfoque personalizado fueron clave para nuestro éxito legal.",
+                "img": "/assets/img/testimonial/avater-1.jpg"
+            },
+            {
+                "name": "Carlos Ruiz",
+                "compnyName": "Grupo Alimentos",
+                "compnyUrl": "#",
+                "position": "Gerente de Operaciones,",
+                "desc": "Me impresionó la honestidad y transparencia de JGV Abogados desde nuestra primera consulta. Su experiencia y conocimiento me dieron la confianza que necesitaba durante un proceso legal complicado.",
+                "img": "/assets/img/testimonial/avater-2.jpg"
+            },
+            {
+                "name": "Sofía González",
+                "compnyName": "Creativa Marketing",
+                "compnyUrl": "#",
+                "position": "Fundadora y CEO,",
+                "desc": "Trabajar con JGV Abogados fue una experiencia excelente. Su capacidad de adaptarse rápidamente a los cambios y ofrecer soluciones innovadoras fue impresionante y esencial para nuestra victoria legal.",
+                "img": "/assets/img/testimonial/avater-3.jpg"
+            }
+        ]
+    },
+    
+    "videoPromo": {
+        "title": "¿Listo para enfrentar tus desafíos legales con los expertos? ",
+        "icon": "fa fa-play",
+        "background": "/assets/img/video-bg.jpg",
+        "videoID": "8Pf8heedkVQ"
+    }
+}
