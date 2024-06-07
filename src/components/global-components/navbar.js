@@ -62,7 +62,7 @@ class Navbar extends Component {
                             <li><HLink className="nav-link" smooth to={`/#features`}>Servicios</HLink></li>
                             <li><HLink className="nav-link" smooth to={`/#screenshots`}>Portafolio</HLink></li>
                             <li>
-                                <HLink className="nav-link" smooth to={`/#`}>Blog</HLink>
+                                <a className="nav-link" href='https://jgvabogados.com.mx/blog/author/4toadmin/'>Blog</a>
                                 
                                 
                             </li>
